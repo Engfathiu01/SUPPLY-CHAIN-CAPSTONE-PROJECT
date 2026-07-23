@@ -188,9 +188,8 @@ Damage rates remain below 3%, but targeted improvements in packaging and handlin
 
 ## 4️⃣ Which product categories generate the highest revenue?
 
-```markdown
+
 ![Revenue vs Profit](Images/RevenueProfit.png)
-```
 
 Health & Beauty leads with approximately **$81M** revenue and **$23M** profit, making it the strongest-performing category.
 
@@ -198,9 +197,7 @@ Health & Beauty leads with approximately **$81M** revenue and **$23M** profit, m
 
 ## 5️⃣ Which product categories deliver the highest margins?
 
-```markdown
 ![Profit Margin](Images/ProfitMargin.png)
-```
 
 Health & Beauty records the highest profit margin (28.75%), closely followed by Electronics (28.72%).
 
@@ -208,9 +205,7 @@ Health & Beauty records the highest profit margin (28.75%), closely followed by 
 
 ## 6️⃣ Which regions contribute the most revenue?
 
-```markdown
 ![Revenue by Region](Images/RevenueRegion.png)
-```
 
 East Africa contributes the highest revenue share (22.27%), while revenue distribution across other regions remains balanced.
 
