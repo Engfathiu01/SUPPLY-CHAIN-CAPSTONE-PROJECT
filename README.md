@@ -105,8 +105,6 @@ The dataset was cleaned entirely in Power Query.
 
 A **Star Schema** was implemented consisting of one Fact table linked to Product, Supplier, Customer, Date and Location dimensions.
 
-> Replace with your Model View screenshot.
-
 
 ![Data Model](Images/DataModel.png)
 
