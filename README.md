@@ -163,9 +163,8 @@ Late delivery exceeds 63% for every major supplier shown, indicating widespread 
 
 ## 2️⃣ Are inventory levels aligned with demand?
 
-```markdown
 ![Inventory](Images/Inventory.png)
-```
+
 
 Inventory levels significantly exceed quantities ordered across all categories. Health & Beauty holds the largest inventory (0.53M) while customer demand remains around 0.09M, suggesting overstocking.
 
@@ -173,9 +172,9 @@ Inventory levels significantly exceed quantities ordered across all categories. 
 
 ## 3️⃣ Which product categories experience the highest damage rates?
 
-```markdown
+
 ![Damage Rate](Images/DamageRate.png)
-```
+
 
 | Category | Damage Rate |
 |----------|------------:|
