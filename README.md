@@ -117,9 +117,9 @@ A **Star Schema** was implemented consisting of one Fact table linked to Product
 
 ## Supply Chain Operations Dashboard
 
-```markdown
+
 ![Dashboard 1](Images/Dashboard1.png)
-```
+
 
 ## Business Performance & Profitability Dashboard
 
