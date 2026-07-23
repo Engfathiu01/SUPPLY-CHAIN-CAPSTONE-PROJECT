@@ -144,9 +144,8 @@ A **Star Schema** was implemented consisting of one Fact table linked to Product
 
 ## 1️⃣ Which suppliers are underperforming?
 
-```markdown
 ![Late Delivery by Supplier](Images/LateDelivery.png)
-```
+
 
 | Supplier | Late Delivery |
 |-----------|--------------:|
