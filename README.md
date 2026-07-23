@@ -107,9 +107,8 @@ A **Star Schema** was implemented consisting of one Fact table linked to Product
 
 > Replace with your Model View screenshot.
 
-```markdown
+
 ![Data Model](Images/DataModel.png)
-```
 
 ---
 
@@ -123,9 +122,7 @@ A **Star Schema** was implemented consisting of one Fact table linked to Product
 
 ## Business Performance & Profitability Dashboard
 
-```markdown
 ![Dashboard 2](Images/Dashboard2.png)
-```
 
 ---
 
